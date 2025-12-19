@@ -67,8 +67,10 @@ http://localhost:8085
 
 **Paste news and check prediction:**
 
-![Fake News Result](screenshot_fake.png)  
-![Real News Result](screenshot_real.png)  
+<img width="1884" height="964" alt="image" src="https://github.com/user-attachments/assets/2c2be40e-fb32-4083-b4e6-dcc9b06bd984" />
+
+  <img width="1907" height="975" alt="image" src="https://github.com/user-attachments/assets/c4c5cd4c-7719-4602-a3f9-e45a2ca97d2e" />
+
 
 > Replace `screenshot_fake.png` and `screenshot_real.png` with your actual screenshots.
 
@@ -83,7 +85,7 @@ http://localhost:8085
 
 ## **Project Link**
 
-GitHub Repository: [https://github.com/YourUsername/fake-news-detector](https://github.com/YourUsername/fake-news-detector)  
+GitHub Repository: [https://github.com/SamarthShinde12/fake-news-detector](https://github.com/SamarthShinde12/fake-news-detector)  
 
 ---
 
@@ -100,4 +102,4 @@ GitHub Repository: [https://github.com/YourUsername/fake-news-detector](https://
 **Samartha Shinde**  
 - Java & Spring Boot Developer  
 - Machine Learning Enthusiast  
-- [LinkedIn Profile](https://www.linkedin.com/in/samarthshinde/)
+- [LinkedIn Profile](https://www.linkedin.com/in/SamarthShinde12/)
